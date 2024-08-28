@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/assets/captura.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/meet-landing-page-solution-5T2Ul5L7YQ)
+- Live Site URL: [Live Site](https://meet-landing-page-ochre.vercel.app/)
 
 ## My process
 
@@ -44,7 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Josiane Fermao](https://www.linkedin.com/in/josiane-fermao-78a2b3168/)
+- Frontend Mentor - [@josifermaodev](https://www.frontendmentor.io/profile/josifermaodev)
 
